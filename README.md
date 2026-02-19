@@ -33,7 +33,7 @@ Clone the Frontend Repository:
 bash
 Copy
 # Clone the frontend repository
-git clone https://github.com/kamalkant24/BMI-AI-calculator-frontend.git
+git clone https://github.com/priyankaamb/BMI-AI-calculator-frontend.git
 
 # Navigate to the Project Directory:
 
